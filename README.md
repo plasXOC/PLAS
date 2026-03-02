@@ -11,7 +11,9 @@ Access Model
 PLAS includes multiple tiers:
 
 T1 – Core performance and latency optimizations
+
 T2 – Advanced system refinements and tuning features
+
 XOC – Extreme optimization configuration for advanced users
 
 Discord Authentication Required
