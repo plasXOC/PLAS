@@ -32,6 +32,3 @@ Feature voting & roadmap input
 
 PLAS does not require mandatory payments.
 Access is community-driven and managed through Discord authentication.
-Or write a legal-safe ToS-style trust paragraph for extra legitimacy
-
-Plasmah branding only goes one direction 📈
