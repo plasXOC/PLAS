@@ -1,4 +1,4 @@
-PLAS – Advanced Windows Performance & Latency Optimization Utility
+PLAS – Advanced Windows Performance & Latency Utility
 
 PLAS is a performance-focused Windows optimization toolkit engineered for competitive gaming and enthusiast systems. Built to maximize FPS, reduce latency, refine network behavior, and eliminate unnecessary system overhead.
 
